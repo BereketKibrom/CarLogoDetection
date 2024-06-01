@@ -1,0 +1,45 @@
+item {
+    name: "audi",
+    id: 1,
+    display_name: "audi"
+}
+item {
+    name: "hyundai",
+    id: 2,
+    display_name: "hyundai"
+}
+item {
+    name: "lexus",
+    id: 3,
+    display_name: "lexus"
+}
+item {
+    name: "mazda",
+    id: 4,
+    display_name: "mazda"
+}
+item {
+    name: "mercedes",
+    id: 5,
+    display_name: "mercedes"
+}
+item {
+    name: "opel",
+    id: 6,
+    display_name: "opel"
+}
+item {
+    name: "others",
+    id: 7,
+    display_name: "others"
+}
+item {
+    name: "toyota",
+    id: 8,
+    display_name: "toyota"
+}
+item {
+    name: "volkswagen",
+    id: 9,
+    display_name: "volkswagen"
+}
