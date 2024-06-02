@@ -8,15 +8,18 @@ Logo Identification: Detects and identifies different car logos in images.
 High Accuracy: Utilizes state-of-the-art deep learning models to ensure high detection accuracy.
 Real-time Processing: Capable of processing images in real-time for practical applications.
 Scalability: Easily extendable to include more car logos as needed
-Anyone can customize the bettter accuracy.
+Anyone can customize for bettter accuracy and any future
 This program is develop in
 
 **##Streamlit App 
 ##Android App
 **
+Goup members
+BEREKET, JIMMY  ,AMAN   ,INNOCENT,PRISCILLA ,AIMABLE    
+Nankai 03/06/2024
 ## Credits
 
-This project includes some andrroid app code from the following repository:
+This project includes some android app code from the following repository:
 
 - [Original Repository Name](https://github.com/surendramaran/YOLOv8-TfLite-Object-Detector)
 
