@@ -57,7 +57,7 @@ elif option == 'Start Live Stream Detection':
         st.session_state.live_stream_active = False
 
     if st.session_state.live_stream_active:
-        cap = cv2.VideoCapture(1)  # Use 0 for webcam
+        cap = cv2.VideoCapture(0)  # Use 0 for webcam
         stframe = st.empty()
         stop_button = st.sidebar.button("Stop Live Stream")
 
